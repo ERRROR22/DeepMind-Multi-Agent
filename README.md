@@ -194,7 +194,7 @@ If you like this project:
 - Share with others
 - Contribute improvements
 
----
+
 2K26/27
-```
+
 
